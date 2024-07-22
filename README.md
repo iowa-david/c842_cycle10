@@ -22,5 +22,5 @@ Allow for credentials to be included for logging into sites that require authent
 - add fully featured logging and alerting to alert when exploits are found and share the information with those who are subscribed to the alerts
 
 References and libraries:
-https://beautiful-soup-4.readthedocs.io/en/latest/
-https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection
+* https://beautiful-soup-4.readthedocs.io/en/latest/
+* https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection
